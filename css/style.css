@@ -71,7 +71,7 @@ h1 {
 }
 .split.left {
   left:0;
-  background: url('https://image.ibb.co/m56Czw/designer.jpg') center center no-repeat;
+  background: url('https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg?w=940&h=650&auto=compress&cs=tinysrgb') center center no-repeat;
   background-size: cover;
 }
 .split.left:before {
@@ -83,7 +83,7 @@ h1 {
 }
 .split.right {
   right:0;
-  background: url('https://image.ibb.co/m3ZbRb/programmer.png') center center no-repeat;
+  background: url('https://images.pexels.com/photos/597463/pexels-photo-597463.jpeg?w=940&h=650&auto=compress&cs=tinysrgb') center center no-repeat;
   background-size: cover;
 }
 .split.right:before {
