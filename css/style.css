@@ -31,6 +31,7 @@ h1 {
 .button {
   display: block;
   position: absolute;
+  border-radius:2rem;
   left: 50%;
   top: 40%;
   height: 2.5rem;
